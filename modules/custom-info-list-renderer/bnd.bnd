@@ -1,0 +1,3 @@
+Bundle-Name: custom-info-list-renderer
+Bundle-SymbolicName: com.liferay.samples.fbo.asset.info.custom
+Bundle-Version: 1.0.0
